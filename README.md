@@ -1,4 +1,5 @@
 ## Hi there 👋
+ I’m currently learning BE Information Science And Engineering @ AJIET
 
 <!--
 **nishanthsb2003/nishanthsb2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
